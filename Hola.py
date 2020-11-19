@@ -1,4 +1,5 @@
-<<<<<<< HEAD
-print("Hello ")
+print ("Hello ")
 name = ("Juan Cuevas")
-print(name):
+print(name)
+age=2020-1985
+print(age)
