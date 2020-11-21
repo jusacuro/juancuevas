@@ -4,7 +4,7 @@ name = ("Juan Cuevas")
 print(name)
 age=2020-1985
 print(age)
-score = 80 / 10
+score = 85 / 10
 print(score)
 
 
